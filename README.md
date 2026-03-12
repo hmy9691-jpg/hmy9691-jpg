@@ -1,6 +1,4 @@
 ## ✌️ Hi
-<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/38fccc80-7e2c-44fa-9b46-66656281bd5d" />
-
 
 <!--
 **hmy9691-jpg/hmy9691-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
