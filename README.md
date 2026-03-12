@@ -1,5 +1,5 @@
 ## Hi I'm 미뇽
-<img width="812" height="812" alt="image" src="https://github.com/user-attachments/assets/38fccc80-7e2c-44fa-9b46-66656281bd5d" />
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/38fccc80-7e2c-44fa-9b46-66656281bd5d" />
 
 
 <!--
