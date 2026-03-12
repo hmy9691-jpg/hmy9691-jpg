@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🐾 My Git Animals 
 <a href="https://github.com/hmy9691-jpg/gitanimals"> 
   <img src="https://render.gitanimals.org/farms/hmy9691-jpg"/> 
 </a> 
